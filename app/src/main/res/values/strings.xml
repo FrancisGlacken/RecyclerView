@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewCodeLab</string>
+    <string name="action_settings">Settings</string>
+    <string name="to_recview">To RecView</string>
+    <string name="add_again_button">Add Again</string>
+    <string name="enter_stuff">Enter stuff</string>
+</resources>
